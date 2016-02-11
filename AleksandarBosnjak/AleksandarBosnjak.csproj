@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0DBEFDEF-8EA7-4220-9A66-E3BABD3FDC5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AleksandarBosnjak</RootNamespace>
+    <AssemblyName>AleksandarBosnjak</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DodavanjeEtiketa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeEtiketa.Designer.cs">
+      <DependentUpon>DodavanjeEtiketa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeTipa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeTipa.Designer.cs">
+      <DependentUpon>DodavanjeTipa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DodavanjeVrste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DodavanjeVrste.Designer.cs">
+      <DependentUpon>DodavanjeVrste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Etiketa.cs" />
+    <Compile Include="HashMap.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StikerView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TipVrste.cs" />
+    <Compile Include="Vrsta.cs" />
+    <EmbeddedResource Include="DodavanjeEtiketa.resx">
+      <DependentUpon>DodavanjeEtiketa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeTipa.resx">
+      <DependentUpon>DodavanjeTipa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DodavanjeVrste.resx">
+      <DependentUpon>DodavanjeVrste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\logovanje.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\DugmePrijaviMe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mapaSveta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mapaSveta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dodajDugme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dodajDugme80x80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\popunjavanjeIkona.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\org3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\pretraga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\org3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\org33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\otkaceno.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\Cancel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dodajNoviProjekat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\otvoriZapis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\sacuvajZapis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\MapaProjekat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\backgroundTexture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\backgroundLightBrown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\stiker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\1_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\2_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\3_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\4_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\5_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\6_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\7_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\8_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\9_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\11_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\12_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\13_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\14_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\15_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\redosled\10_g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\izmena.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\alpha\brown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\alpha\lightbrown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\alpha\darkBrown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dodajSticker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\izmeniSticker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\obrisiSticker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\colorPicker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\sacuvajSticker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\logoMali.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\kantaZaOtpatkeMala.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\obrisiEtiketu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\odustani.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kanta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kanta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\slektovan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\izm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\helpIkona.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\org333.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\org3331.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\helpContext.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

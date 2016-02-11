@@ -1,0 +1,40 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\help\PomocDatoteka.chm
+
+images\potvrdi.bmp
+Uvod.htm
+Dodavanje vrste.htm
+Dodavanje tipa vrste.htm
+Dodavanje etikete.htm
+Izmena vrste.htm
+Izmena tipa vrste.htm
+Izmena etikete.htm
+Brisanje podatka.htm
+Dodavanje stikera.htm
+Brisanje stikera.htm
+Cuvanje stanja.htm
+images\backgroundLightBrown.jpg
+css\stilovi.css
+images\logo.bmp
+images\dodajVrstu.bmp
+images\dodajTipVrste.bmp
+images\dodajEtiketu.bmp
+images\izmeniVrstu.bmp
+images\izmeniTipVrste.bmp
+images\izmeniEtiketu.bmp
+images\obrisiSekcija.bmp
+images\dragDrop.bmp
+images\brisanjePrevlacenje.bmp
+images\obrisiMeni.bmp
+images\sacuvajIzmene.bmp
+
+Compile time: 0 minutes, 2 seconds
+11	Topics
+47	Local links
+0	Internet links
+1	Graphic
+
+
+Created c:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\help\PomocDatoteka.chm, 201,094 bytes
+Compression decreased file by 613,034 bytes.

@@ -1,0 +1,13 @@
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Release\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Release\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Release\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Release\AleksandarBosnjak.pdb

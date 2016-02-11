@@ -1,0 +1,167 @@
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ra92-2012\Desktop\HCI - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - Copy\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\HCI - Copy - Copy - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\ra92-2012\Desktop\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\STUDENT\Desktop\Projekat - GL - Move\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\STUDENT\Desktop\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Movewww\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe.config
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\bin\Debug\AleksandarBosnjak.pdb
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeEtiketa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeTipa.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.DodavanjeVrste.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Login.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Main.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.Properties.Resources.resources
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.csproj.GenerateResource.Cache
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.exe
+C:\Users\Aleksandar\Documents\HCI\novo2 - Copy\Projekat - GL - Aleksandar Bosnjak\AleksandarBosnjak\AleksandarBosnjak\obj\Debug\AleksandarBosnjak.pdb

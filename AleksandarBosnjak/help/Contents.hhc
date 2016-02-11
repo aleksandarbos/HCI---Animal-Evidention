@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+      <param name="Window Styles" value="0x00800025">
+      <param name="comment" value="title:Pomoc">
+      <param name="comment" value="base:Uvod.htm">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Uvod">
+          <param name="Local" value="Uvod.htm">
+          <param name="ImageNumber" value="11">
+        </OBJECT>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Rukovanje podacima tabele">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Dodavanje podataka">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Kako da dodam vrstu?">
+                  <param name="Local" value="Dodavanje vrste.htm">
+                  <param name="ImageNumber" value="9">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Kako da dodam tip vrste?">
+                  <param name="Local" value="Dodavanje tipa vrste.htm">
+                  <param name="ImageNumber" value="9">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Kako da dodam etiketu?">
+                  <param name="Local" value="Dodavanje etikete.htm">
+                  <param name="ImageNumber" value="9">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Izmena podataka">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Kako da izmenim vrstu?">
+                  <param name="Local" value="Izmena vrste.htm">
+                  <param name="ImageNumber" value="9">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Kako da izmenim tip vrste?">
+                  <param name="Local" value="Izmena tipa vrste.htm">
+                  <param name="ImageNumber" value="9">
+                </OBJECT>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Kako da izmenim etiketu?">
+                  <param name="Local" value="Izmena etikete.htm">
+                </OBJECT>
+            </UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Brisanje podataka">
+            </OBJECT>
+            <UL>
+                <LI><OBJECT type="text/sitemap">
+                  <param name="Name" value="Kako da obrišem podatak?">
+                  <param name="Local" value="Brisanje podatka.htm">
+                </OBJECT>
+            </UL>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Rad sa stikerima na mapi">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Kako da dodam stiker?">
+              <param name="Local" value="Dodavanje stikera.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Kako da obrišem stiker?">
+              <param name="Local" value="Brisanje stikera.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="Sacuvavanje stanja aplikacije">
+        </OBJECT>
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="Kako da sacuvam stanje aplikacije?">
+              <param name="Local" value="Cuvanje stanja.htm">
+            </OBJECT>
+        </UL>
+    </UL>
+</BODY>
+</HTML>

@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Precision Helper 2.0.1">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+    <OBJECT type="text/site properties">
+      <param name="FrameName" value="right">
+    </OBJECT>
+    <UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="vrste">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="dodavanje">
+              <param name="Local" value="Dodavanje vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="ubacivanje">
+              <param name="Local" value="Dodavanje vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="pravljenje">
+              <param name="Local" value="Dodavanje vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="izmena">
+              <param name="Local" value="Izmena vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="azuriranje">
+              <param name="Local" value="Izmena vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="promena">
+              <param name="Local" value="Izmena vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="brisanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="uklanjanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="odstranjivanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="stikera">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="dodavanje">
+              <param name="Local" value="Dodavanje stikera.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="pravljenje">
+              <param name="Local" value="Dodavanje stikera.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="brisanje">
+              <param name="Local" value="Brisanje stikera.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="uklanjanje">
+              <param name="Local" value="Brisanje stikera.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="tipa vrste">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="dodavanje">
+              <param name="Local" value="Dodavanje tipa vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="ubacivanje">
+              <param name="Local" value="Izmena tipa vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="pravljenje">
+              <param name="Local" value="Dodavanje tipa vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="izmena">
+              <param name="Local" value="Izmena tipa vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="azuriranje">
+              <param name="Local" value="Izmena tipa vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="promena">
+              <param name="Local" value="Izmena tipa vrste.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="brisanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="uklanjanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="odstranjivanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="etikete">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="dodavanje">
+              <param name="Local" value="Dodavanje etikete.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="ubacivanje">
+              <param name="Local" value="Dodavanje etikete.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="pravljenje">
+              <param name="Local" value="Dodavanje etikete.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="izmena">
+              <param name="Local" value="Izmena etikete.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="azuriranje">
+              <param name="Local" value="Izmena etikete.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="promena">
+              <param name="Local" value="Izmena etikete.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="brisanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="uklanjanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="odstranjivanje">
+              <param name="Local" value="Brisanje podatka.htm">
+            </OBJECT>
+        </UL>
+        <LI><OBJECT type="text/sitemap">
+          <param name="Name" value="cuvanje">
+        <UL>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="aplikacije">
+              <param name="Local" value="Cuvanje stanja.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="stanja aplikacije">
+              <param name="Local" value="Cuvanje stanja.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="podataka">
+              <param name="Local" value="Cuvanje stanja.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="pohranjivanje">
+              <param name="Local" value="Cuvanje stanja.htm">
+            </OBJECT>
+            <LI><OBJECT type="text/sitemap">
+              <param name="Name" value="sacuvavanje">
+              <param name="Local" value="Cuvanje stanja.htm">
+            </OBJECT>
+        </UL>
+    </UL>
+</BODY>
+</HTML>

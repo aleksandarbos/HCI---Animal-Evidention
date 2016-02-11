@@ -1,0 +1,42 @@
+/*img {
+	float:right;
+	border-style:groove;
+	border-width:3px;
+}*/
+
+.slika {
+	float:right;
+	border-style:groove;
+	border-width:3px;
+	color:white;
+	text-align:center;
+	text-shadow: 2px 2px #ff0000;
+	background-image:url(../images/backgroundLightBrown.jpg);
+	background-repeat:repeat;
+}
+
+.slikaTekst {
+	background-color:#C1AB97 !important;
+}
+
+#logo {
+	float:none !important;
+	display:block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+	background-color:#B7928A;	
+	color:white;
+}
+
+body {
+	background-image:url(../images/backgroundLightBrown.jpg);
+	background-repeat:repeat;	
+}
+
+p, p ol li {
+  background-color:#C1AB97;	
+  color:white;
+}
